@@ -1,3 +1,3 @@
 # Muse: Text To Image Generation
 
-![image](Muse Framework)
+![image](Muse_Framework.png)
