@@ -1,1 +1,1 @@
-# Muse-Text-To-Image-Generation-
+# Muse: Text To Image Generation
